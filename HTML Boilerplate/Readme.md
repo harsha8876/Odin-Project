@@ -55,4 +55,5 @@ You can find the HTML file in your file system and then double click it. This wi
 
 
 <img src="ex.png" alt="My Local Image" width="450"/>
+
 ***
