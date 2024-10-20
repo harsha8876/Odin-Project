@@ -56,6 +56,23 @@ Comments makes the code more readable that helps the other future developers. Co
 <!-- I am an html comment -->
  ```
 
+
+## List
+
+there are two type of list in HTML 1.ordered and 2.unordered
+
+## unordered
+
+When the order of items doesn't matter we use unordered list.
+
+created using `<ul>` and each item within the list is created using `<li>`.
+
+## Ordered
+
+If list have a define ordered like a step by step instruction we use ordered list.
+
+reated using `<Ol>` and each item within the list is created using `<li>`.
+
  # Code Example
 
  ```html
@@ -70,6 +87,16 @@ Comments makes the code more readable that helps the other future developers. Co
         <h2>Introduction</h2>
         <p><em>Lorem</em> ipsum dolor sit amet consectetur <strong>adipisicing</strong> elit.</p>
         <p>Maxime necessitatibus sit cupiditate corrupti dolore inventore debitis. Laborum molestias dolor hic quis perferendis voluptas, earum, voluptate quam aut, alias vel. Blanditiis!</p>
+        <ul>
+            <li>Item 1</li>
+            <li>Item 2</li>
+            <li>Item 3</li>
+        </ul>
+        <ol>
+            <li>Item 1</li>
+            <li>Item 2</li>
+            <li>Item 3</li>
+        </ol>
     </body>
 </html>
 ```
